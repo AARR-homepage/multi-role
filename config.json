@@ -1,0 +1,13 @@
+{
+    
+  "roles": [
+    {
+      "checkServerId": "",
+      "checkRoleId": "",
+      "targetServerId": "",
+      "targetRoleId": ""
+    }
+
+  ],
+  "defaultRoleId": ""
+}
